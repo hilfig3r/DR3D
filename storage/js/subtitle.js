@@ -55,6 +55,9 @@ say[47] = "Too cool for school i see";
 say[48] = "what a gaemer";
 say[49] = "playing games in school huh?";
 say[50] = "To the person who invented zero, thanks for nothing";
+say[51] = "Wanna be my discord kitten?";
+say[52] = "Best unblocked game site!";
+
 
 var howmany = say.length;
 var bRand = 0;
