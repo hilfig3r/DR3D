@@ -57,7 +57,10 @@ say[49] = "playing games in school huh?";
 say[50] = "To the person who invented zero, thanks for nothing";
 say[51] = "Wanna be my discord kitten?";
 say[52] = "Best unblocked game site!";
-
+say[53] = "Best paid game site!";
+say[54] = "fart";
+say[55] = "shrek is sooooooooooooooooooooooooooo hot";
+say[56] = "u should go play the games now";
 
 var howmany = say.length;
 var bRand = 0;
